@@ -44,6 +44,7 @@ def index():
         <body>
             <h1>クラウド開発1+Python+FastAPI</h1>
             <p> 提出課題</p>
+            <h2>プログラミング課題9-1,9-2</h2>
         </body>
     </html>
     """
